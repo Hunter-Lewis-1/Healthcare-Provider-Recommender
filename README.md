@@ -102,4 +102,4 @@ The system is optimized for efficiency:
 - SVD implementation is O(nk) where n is the number of ratings and k is the number of factors
 - Pareto optimization is implemented with O(n²) comparisons in the worst case
 
-For the default dataset (10,000 providers, 100,000 ratings), the system can generate recommendations in seconds on a standard computer.
+For the default dataset (10,000 providers, 100,000 ratings), the system can generate recommendations in seconds (wall clock time).
